@@ -1,6 +1,6 @@
 cask "soundpipe" do
-  version "1.0.12"
-  sha256 "ec7faebe4fe5157ff9f450771fd979955553b6910b382afe0f48bae8f7d65ab3"
+  version "1.0.13"
+  sha256 "553d720b4518a1c237c2e0d568ff375bb855a14dbb40555f3cb8b7dadd140943"
 
   url "https://soundpipe.app/downloads/SoundPipe-#{version}.dmg"
   name "SoundPipe"
